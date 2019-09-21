@@ -1,0 +1,5 @@
+C:\Users\PECSI\Documents\Projects 3nd Semester\Group4projfinal\bin\Debug\Group4projfinal.exe.config
+C:\Users\PECSI\Documents\Projects 3nd Semester\Group4projfinal\bin\Debug\Group4projfinal.exe
+C:\Users\PECSI\Documents\Projects 3nd Semester\Group4projfinal\bin\Debug\Group4projfinal.pdb
+C:\Users\PECSI\Documents\Projects 3nd Semester\Group4projfinal\obj\Debug\Group4projfinal.exe
+C:\Users\PECSI\Documents\Projects 3nd Semester\Group4projfinal\obj\Debug\Group4projfinal.pdb
